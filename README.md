@@ -38,23 +38,23 @@ A lo largo de este capítulo se cubren:
 
 ## 📚 Contenido del Capítulo 5
 
-**5.1 Introducción a la Computación Cuántica**
+1. **5.1 Introducción a la Computación Cuántica**
    - Del bit al qubit en código.
    - Normalización y regla de Born.
    - Paradigma de computación en el sitio (*computation-in-place*).
    - Visualización con la Esfera de Bloch.
-**5.2 Programando con Cirq**[cite: 1]
+2. **5.2 Programando con Cirq**[cite: 1]
    - Configuración en Google Colab[cite: 1].
    - Anatomía de Cirq: `LineQubit`, `GridQubit`, `Circuit` y `Moment`[cite: 1].
    - Primer "Hola Mundo" cuántico[cite: 1].
-**5.3 Puertas de un Solo Qubit**[cite: 1]
+3. **5.3 Puertas de un Solo Qubit**[cite: 1]
    - Puertas de Pauli ($X$, $Y$, $Z$) y Hadamard ($H$)[cite: 1].
-**5.4 Operaciones Avanzadas y Entrelazamiento**[cite: 1]
+4. **5.4 Operaciones Avanzadas y Entrelazamiento**[cite: 1]
    - Puerta CNOT[cite: 1].
    - Construcción del Estado de Bell ($\Phi^+$)[cite: 1].
    - Simulación estadística: la necesidad de múltiples repeticiones (*shots*)[cite: 1].
    - Rotaciones continuas con $R_y(\theta)$[cite: 1].
-**5.5 Introducción a Algoritmos y Oráculos**[cite: 1]
+5. **5.5 Introducción a Algoritmos y Oráculos**[cite: 1]
    - Algoritmo de Deutsch-Jozsa (Ventaja exponencial con 1 consulta)[cite: 1].
    - Algoritmo de Grover (Búsqueda cuántica y amplificación de amplitud)[cite: 1].
 
