@@ -1,0 +1,5 @@
+numpy
+cirq
+qiskit
+qiskit-aer
+ipython
