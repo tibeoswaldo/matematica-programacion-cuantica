@@ -1,34 +1,3 @@
-# Capítulo 5: Programación Cuántica
-
-> **Repositorio Oficial:** [matematica-programacion-cuantica](https://github.com/tibeoswaldo/matematica-programacion-cuantica)[cite: 2]  
-> **Entorno de Ejecución Obligatorio:** Todos los cuadernos y scripts de este módulo **DEBEN ejecutarse en Google Colab** (`GoogleColab`)[cite: 2].
-
----
-
-## 📌 Descripción General
-
-¡Bienvenido al tramo final del entrenamiento práctico en computación cuántica![cite: 2] Tras dominar las bases teóricas y algebraicas en la "sala de mapas" de las matemáticas avanzadas, este módulo aborda el control directo del hardware y de los simuladores cuánticos[cite: 2].
-
-En la computación cuántica, la programación no consiste en escribir lógica tradicional determinista de "si-entonces"[cite: 2]. Programar el mundo cuántico es el **arte de orquestar la naturaleza**[cite: 2]: una labor donde el desarrollador manipula amplitudes de probabilidad, genera correlaciones no clásicas mediante el entrelazamiento y gestiona la interferencia (constructiva y destructiva) para que la solución correcta sea la única físicamente posible tras la medición[cite: 2].
-
----
-
-## 🚀 Entorno de Ejecución (Google Colab Required)
-
-> ⚠️ **IMPORTANTE:** Para garantizar la compatibilidad con las dependencias de **Cirq**, **Qiskit** y los simuladores cuánticos en la nube, todos los scripts deben ejecutarse dentro de **Google Colab**[cite: 2].
-
-### ¿Por qué Google Colab?
-1. **Sin instalaciones locales complejas:** Evita conflictos de entornos virtuales o compilación de dependencias en máquinas locales[cite: 2].
-2. **Delegación de recursos:** La simulación cuántica requiere un procesamiento intensivo de matrices complejas[cite: 2]. Colab delega este trabajo pesado a la nube, emulando la interacción cliente-servidor con una Unidad de Procesamiento Cuántico (QPU)[cite: 2].
-3. **Punto de acceso inmediato:** Permite instalar y ejecutar `cirq` y `qiskit` con comandos de celda directo (`!pip install`)[cite: 2].
-
----
-
-## 💻 Instalación y Configuración en Google Colab
-
-Abre un cuaderno en **Google Colab** y ejecuta las siguientes celdas para preparar tu entorno de desarrollo[cite: 2]:
-
-```python
 # 1. Instalación de la librería Google Cirq para computación cuántica
 !pip install cirq --quiet
 
@@ -172,3 +141,7 @@ else:
 * **Libro:** *Matemática y Programación Cuántica* (Capítulo 05)[cite: 2]
 * **Librerías principales:** Google Cirq, Qiskit, NumPy[cite: 2]
 * **Repositorio GitHub:** [tibeoswaldo/matematica-programacion-cuantica](https://github.com/tibeoswaldo/matematica-programacion-cuantica)[cite: 2]
+
+---
+
+Una vez guardado y subido mediante `git push origin main`, tu página principal en GitHub se renderizará como un documento formal completo.
