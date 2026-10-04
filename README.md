@@ -47,20 +47,6 @@ Todos los códigos `.py` y notebooks del capítulo están estructurados y subido
 
 🔗 [**https://github.com/tibeoswaldo/matematica-programacion-cuantica**](https://github.com/tibeoswaldo/matematica-programacion-cuantica)
 
-```text
-├── README.md
-├── requirements.txt
-└── scripts/
-    ├── 01_vectores_estado_superposicion.py
-    ├── 02_esfera_de_bloch_qiskit.py
-    ├── 03_hola_mundo_cirq.py
-    ├── 04_puertas_un_qubit.py
-    ├── 05_cnot_y_estado_de_bell.py
-    ├── 06_simulacion_rotacion_ry.py
-    ├── 07_algoritmo_deutsch_jozsa.py
-    └── 08_algoritmo_grover.py
-```
-
 ## 📚 Contenido del Módulo
 
 ### 5.1 Introducción a la Computación Cuántica
