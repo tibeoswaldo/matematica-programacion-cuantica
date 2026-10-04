@@ -28,13 +28,13 @@ En la computación cuántica, la programación no consiste en escribir lógica t
 
 Abre un cuaderno en **Google Colab** y ejecuta las siguientes celdas para preparar tu entorno de desarrollo[cite: 2]:
 
-```python
+python
 # 1. Instalación de la librería Google Cirq para computación cuántica
 !pip install cirq --quiet
 
 # 2. Instalación opcional de Qiskit y Qiskit Aer (para visualizaciones en la Esfera de Bloch)
 !pip install qiskit qiskit-aer --quiet
-```[cite: 2]
+[cite: 2]
 
 Verifica la instalación de Cirq:
 
