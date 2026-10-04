@@ -38,10 +38,10 @@ python
 
 Verifica la instalación de Cirq:
 
-```python
+python
 import cirq
 print("Versión de Cirq instalada:", cirq.__version__)
-```[cite: 2]
+[cite: 2]
 
 ---
 
