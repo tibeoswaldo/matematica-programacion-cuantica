@@ -32,5 +32,11 @@ Abre un cuaderno en **Google Colab** y ejecuta las siguientes celdas para prepar
 # 1. Instalación de la librería Google Cirq para computación cuántica
 !pip install cirq --quiet
 
+Verifica la instalación de Cirq:
+
+```python
+import cirq
+print("Versión de Cirq instalada:", cirq.__version__)
+
 # 2. Instalación opcional de Qiskit y Qiskit Aer (para visualizaciones en la Esfera de Bloch)
 !pip install qiskit qiskit-aer --quiet
