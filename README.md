@@ -212,7 +212,7 @@ else:
 
 ## 📑 Referencias y Créditos
 
-* **Autor:** Oswaldo
+* **Autor:** Oswaldo G. Velasquez A.
 * **Libro:** *Matemática y Programación Cuántica* (Capítulo 05)
 * **Librerías principales:** Google Cirq, Qiskit, NumPy
 * **Repositorio GitHub:** [tibeoswaldo/matematica-programacion-cuantica](https://github.com/tibeoswaldo/matematica-programacion-cuantica)
